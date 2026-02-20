@@ -1,7 +1,7 @@
 name: Watch APIS current social events
 
-on:
-  schedule:
+#on:
+  #schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
